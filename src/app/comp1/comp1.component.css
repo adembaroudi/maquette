@@ -1,0 +1,9 @@
+.text{justify-content: center;}
+h2{justify-content: center;
+margin-bottom: 20%;}
+h6{color: white}
+h5{color: orange}
+a{color: orange;}
+.liste{display: flex; justify-content: center; }
+p{padding: 172px; }
+i{color: orange;}
